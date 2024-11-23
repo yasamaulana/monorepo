@@ -1,0 +1,10 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyBH7EvVzqUteUUcfVBsiugTxF3ZrfMcSh8",
+    authDomain: "monorepo-48823.firebaseapp.com",
+    projectId: "monorepo-48823",
+    storageBucket: "monorepo-48823.firebasestorage.app",
+    messagingSenderId: "283398568884",
+    appId: "1:283398568884:web:91e9af411bc5f6fc8a50e1",
+    measurementId: "G-WJNXV9RCEY"
+  };
+  
